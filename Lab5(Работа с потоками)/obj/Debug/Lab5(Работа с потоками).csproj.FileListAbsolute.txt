@@ -1,0 +1,20 @@
+C:\Projects\Lab5(Работа с потоками)\Lab5(Работа с потоками)\bin\Debug\Lab5(Работа с потоками).exe.config
+C:\Projects\Lab5(Работа с потоками)\Lab5(Работа с потоками)\bin\Debug\Lab5(Работа с потоками).exe
+C:\Projects\Lab5(Работа с потоками)\Lab5(Работа с потоками)\bin\Debug\Lab5(Работа с потоками).pdb
+C:\Projects\Lab5(Работа с потоками)\Lab5(Работа с потоками)\obj\Debug\Lab5(Работа с потоками).csprojResolveAssemblyReference.cache
+C:\Projects\Lab5(Работа с потоками)\Lab5(Работа с потоками)\obj\Debug\Lab5_Работа_с_потоками_.MainForm.resources
+C:\Projects\Lab5(Работа с потоками)\Lab5(Работа с потоками)\obj\Debug\Lab5_Работа_с_потоками_.Properties.Resources.resources
+C:\Projects\Lab5(Работа с потоками)\Lab5(Работа с потоками)\obj\Debug\Lab5(Работа с потоками).csproj.GenerateResource.Cache
+C:\Projects\Lab5(Работа с потоками)\Lab5(Работа с потоками)\obj\Debug\Lab5(Работа с потоками).csproj.CoreCompileInputs.cache
+C:\Projects\Lab5(Работа с потоками)\Lab5(Работа с потоками)\obj\Debug\Lab5(Работа с потоками).exe
+C:\Projects\Lab5(Работа с потоками)\Lab5(Работа с потоками)\obj\Debug\Lab5(Работа с потоками).pdb
+C:\Users\Panda\Desktop\Работа\на гит\Lab5(Работа с потоками)-20210526T100803Z-001\Lab5(Работа с потоками)\Lab5(Работа с потоками)\bin\Debug\Lab5(Работа с потоками).exe.config
+C:\Users\Panda\Desktop\Работа\на гит\Lab5(Работа с потоками)-20210526T100803Z-001\Lab5(Работа с потоками)\Lab5(Работа с потоками)\bin\Debug\Lab5(Работа с потоками).exe
+C:\Users\Panda\Desktop\Работа\на гит\Lab5(Работа с потоками)-20210526T100803Z-001\Lab5(Работа с потоками)\Lab5(Работа с потоками)\bin\Debug\Lab5(Работа с потоками).pdb
+C:\Users\Panda\Desktop\Работа\на гит\Lab5(Работа с потоками)-20210526T100803Z-001\Lab5(Работа с потоками)\Lab5(Работа с потоками)\obj\Debug\Lab5(Работа с потоками).csprojAssemblyReference.cache
+C:\Users\Panda\Desktop\Работа\на гит\Lab5(Работа с потоками)-20210526T100803Z-001\Lab5(Работа с потоками)\Lab5(Работа с потоками)\obj\Debug\Lab5_Работа_с_потоками_.MainForm.resources
+C:\Users\Panda\Desktop\Работа\на гит\Lab5(Работа с потоками)-20210526T100803Z-001\Lab5(Работа с потоками)\Lab5(Работа с потоками)\obj\Debug\Lab5_Работа_с_потоками_.Properties.Resources.resources
+C:\Users\Panda\Desktop\Работа\на гит\Lab5(Работа с потоками)-20210526T100803Z-001\Lab5(Работа с потоками)\Lab5(Работа с потоками)\obj\Debug\Lab5(Работа с потоками).csproj.GenerateResource.cache
+C:\Users\Panda\Desktop\Работа\на гит\Lab5(Работа с потоками)-20210526T100803Z-001\Lab5(Работа с потоками)\Lab5(Работа с потоками)\obj\Debug\Lab5(Работа с потоками).csproj.CoreCompileInputs.cache
+C:\Users\Panda\Desktop\Работа\на гит\Lab5(Работа с потоками)-20210526T100803Z-001\Lab5(Работа с потоками)\Lab5(Работа с потоками)\obj\Debug\Lab5(Работа с потоками).exe
+C:\Users\Panda\Desktop\Работа\на гит\Lab5(Работа с потоками)-20210526T100803Z-001\Lab5(Работа с потоками)\Lab5(Работа с потоками)\obj\Debug\Lab5(Работа с потоками).pdb
